@@ -1,6 +1,6 @@
 # Hi, I'm Marco
 
-MSc Artificial Intelligence Systems student with a background in Information Engineering.
+MSc Artificial Intelligence Systems student at the University of Trento, with a background in Information Engineering.
 
 I build applied Machine Learning projects involving Natural Language Processing, Conversational AI, Deep Learning, and 3D pose-based Computer Vision.
 
